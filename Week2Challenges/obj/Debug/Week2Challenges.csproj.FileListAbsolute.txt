@@ -1,0 +1,14 @@
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Week2Challenges.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Week2Challenges.pdb
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.csprojAssemblyReference.cache
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.csproj.CopyComplete
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.dll
+C:\Users\Nadia\source\repos\Week2Challenges\Week2Challenges\obj\Debug\Week2Challenges.pdb
